@@ -1,0 +1,161 @@
+D:\project\desktop\JualTunai\JualTunai\bin\Debug\Program Toko Sederhana.exe.config
+D:\project\desktop\JualTunai\JualTunai\bin\Debug\Program Toko Sederhana.exe
+D:\project\desktop\JualTunai\JualTunai\bin\Debug\Program Toko Sederhana.pdb
+D:\project\desktop\JualTunai\JualTunai\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\project\desktop\JualTunai\JualTunai\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\project\desktop\JualTunai\JualTunai\bin\Debug\CrystalDecisions.Shared.dll
+D:\project\desktop\JualTunai\JualTunai\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\project\desktop\JualTunai\JualTunai\bin\Debug\MySql.Data.dll
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.csprojResolveAssemblyReference.cache
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmBarang.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmKasTambah.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmCariBarang.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.frmCetak.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.frmJual.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmKas.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmTerms.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmLaporan.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmBarangTambah.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmLogin.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmPassword.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmPengaturan.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmTambahUser.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmKategoriKas.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.FrmUtama.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.Properties.Resources.resources
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\JualTunai.csproj.GenerateResource.Cache
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\Program Toko Sederhana.exe
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\Program Toko Sederhana.pdb
+D:\project\desktop\JualTunai C#\JualTunai\bin\Debug\Program Toko Sederhana.exe.config
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\Program Toko Sederhana.exe
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\Program Toko Sederhana.pdb
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmBarang.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmKasTambah.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmCariBarang.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.frmCetak.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.frmJual.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmKas.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmTerms.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmLaporan.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmBarangTambah.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmLogin.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmPassword.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmPengaturan.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmTambahUser.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmKategoriKas.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmUtama.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.Properties.Resources.resources
+D:\project\desktop\JualTunai C#\JualTunai\obj\Debug\JualTunai.csproj.GenerateResource.Cache
+D:\project\desktop\JualTunai C#\JualTunai\bin\Debug\Program Toko Sederhana.exe
+D:\project\desktop\JualTunai C#\JualTunai\bin\Debug\Program Toko Sederhana.pdb
+D:\project\desktop\JualTunai C#\JualTunai\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\project\desktop\JualTunai C#\JualTunai\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\project\desktop\JualTunai C#\JualTunai\bin\Debug\CrystalDecisions.Shared.dll
+D:\project\desktop\JualTunai C#\JualTunai\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\project\desktop\JualTunai C#\JualTunai\bin\Debug\MySql.Data.dll
+D:\project\desktop\JualTunai C#\JualTunai\bin\Debug\System.Configuration.dll
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\bin\Debug\Program Toko Sederhana.exe.config
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\Program Toko Sederhana.exe
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\Program Toko Sederhana.pdb
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\bin\Debug\Program Toko Sederhana.exe
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\bin\Debug\Program Toko Sederhana.pdb
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\bin\Debug\MySql.Data.dll
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\bin\Debug\System.Configuration.dll
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.csprojResolveAssemblyReference.cache
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmBarang.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmKasTambah.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmCariBarang.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmCetak.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmJual.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmKas.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmTerms.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmLaporan.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmBarangTambah.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmLogin.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmPassword.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmPengaturan.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmTambahUser.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmKategoriKas.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.FrmUtama.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.Properties.Resources.resources
+D:\Sistem Informasi\Inventory\JualTunai C#\JualTunai\obj\Debug\JualTunai.csproj.GenerateResource.Cache
+C:\Users\HERDI\Desktop\Temp\JualTunai\bin\Debug\Program Toko Sederhana.exe.config
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\Program Toko Sederhana.exe
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\Program Toko Sederhana.pdb
+C:\Users\HERDI\Desktop\Temp\JualTunai\bin\Debug\Program Toko Sederhana.exe
+C:\Users\HERDI\Desktop\Temp\JualTunai\bin\Debug\Program Toko Sederhana.pdb
+C:\Users\HERDI\Desktop\Temp\JualTunai\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HERDI\Desktop\Temp\JualTunai\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HERDI\Desktop\Temp\JualTunai\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HERDI\Desktop\Temp\JualTunai\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HERDI\Desktop\Temp\JualTunai\bin\Debug\System.Configuration.dll
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.csprojResolveAssemblyReference.cache
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmBarang.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmKasTambah.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmCariBarang.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmCetak.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmJual.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmKas.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmTerms.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmLaporan.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmBarangTambah.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmLogin.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmPassword.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmPengaturan.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmTambahUser.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmKategoriKas.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.FrmUtama.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.Properties.Resources.resources
+C:\Users\HERDI\Desktop\Temp\JualTunai\obj\Debug\JualTunai.csproj.GenerateResource.Cache
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\bin\Debug\Program Toko Sederhana.exe.config
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\Program Toko Sederhana.exe
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\Program Toko Sederhana.pdb
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\bin\Debug\Program Toko Sederhana.exe
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\bin\Debug\Program Toko Sederhana.pdb
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\bin\Debug\System.Configuration.dll
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.csprojResolveAssemblyReference.cache
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmBarang.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmKasTambah.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmCariBarang.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmCetak.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmJual.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmKas.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmTerms.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmLaporan.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmBarangTambah.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmLogin.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmPassword.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmPengaturan.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmTambahUser.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmKategoriKas.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.FrmUtama.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.Properties.Resources.resources
+D:\Pemrograman visual\Aplikasi Penjualan\SI Jual Tunai C# MySQL 2016-12-06\JualTunai\obj\Debug\JualTunai.csproj.GenerateResource.Cache
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\bin\Debug\Program Toko Sederhana.exe.config
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\Program Toko Sederhana.exe
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\Program Toko Sederhana.pdb
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\bin\Debug\Program Toko Sederhana.exe
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\bin\Debug\Program Toko Sederhana.pdb
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\bin\Debug\System.Configuration.dll
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.csprojResolveAssemblyReference.cache
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmBarang.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmKasTambah.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmCariBarang.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmCetak.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmJual.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmKas.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmTerms.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmLaporan.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmBarangTambah.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmLogin.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmPassword.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmPengaturan.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmTambahUser.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmKategoriKas.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.FrmUtama.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.Properties.Resources.resources
+D:\Pemrograman visual\Aplikasi Penjualan\JualTunai\JualTunai\obj\Debug\JualTunai.csproj.GenerateResource.Cache

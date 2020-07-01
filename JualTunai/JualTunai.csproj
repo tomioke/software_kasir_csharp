@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{46FD8078-C38E-4D1D-AF1D-273F090BEEFB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JualTunai</RootNamespace>
+    <AssemblyName>Program Toko Sederhana</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.6.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmKasTambah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKasTambah.Designer.cs">
+      <DependentUpon>FrmKasTambah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCariBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCariBarang.Designer.cs">
+      <DependentUpon>FrmCariBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCetak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCetak.Designer.cs">
+      <DependentUpon>FrmCetak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmJual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmJual.Designer.cs">
+      <DependentUpon>FrmJual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKas.Designer.cs">
+      <DependentUpon>FrmKas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTerms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTerms.Designer.cs">
+      <DependentUpon>FrmTerms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLaporan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLaporan.Designer.cs">
+      <DependentUpon>FrmLaporan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBarangTambah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBarangTambah.Designer.cs">
+      <DependentUpon>FrmBarangTambah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTambahUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTambahUser.Designer.cs">
+      <DependentUpon>FrmTambahUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPengaturan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPengaturan.Designer.cs">
+      <DependentUpon>FrmPengaturan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKategoriKas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKategoriKas.Designer.cs">
+      <DependentUpon>FrmKategoriKas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUtama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUtama.Designer.cs">
+      <DependentUpon>FrmUtama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBarang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBarang.Designer.cs">
+      <DependentUpon>FrmBarang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPassword.Designer.cs">
+      <DependentUpon>FrmPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="H.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RptJual.cs">
+      <DependentUpon>RptJual.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="rptKas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptKas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptNota.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptNota.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="FrmBarang.resx">
+      <DependentUpon>FrmBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKasTambah.resx">
+      <DependentUpon>FrmKasTambah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCariBarang.resx">
+      <DependentUpon>FrmCariBarang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCetak.resx">
+      <DependentUpon>FrmCetak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmJual.resx">
+      <DependentUpon>FrmJual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKas.resx">
+      <DependentUpon>FrmKas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTerms.resx">
+      <DependentUpon>FrmTerms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLaporan.resx">
+      <DependentUpon>FrmLaporan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBarangTambah.resx">
+      <DependentUpon>FrmBarangTambah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPassword.resx">
+      <DependentUpon>FrmPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPengaturan.resx">
+      <DependentUpon>FrmPengaturan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTambahUser.resx">
+      <DependentUpon>FrmTambahUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKategoriKas.resx">
+      <DependentUpon>FrmKategoriKas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUtama.resx">
+      <DependentUpon>FrmUtama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RptJual.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RptJual.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptKas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptKas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptNota.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptNota.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

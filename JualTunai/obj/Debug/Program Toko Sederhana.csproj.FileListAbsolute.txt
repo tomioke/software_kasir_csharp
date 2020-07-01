@@ -1,0 +1,60 @@
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\bin\Debug\Program Toko Sederhana.exe.config
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\bin\Debug\Program Toko Sederhana.exe
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\bin\Debug\Program Toko Sederhana.pdb
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program Toko Sederhana.csprojResolveAssemblyReference.cache
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmBrg.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmLgn.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmPass.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmTmbhBrg.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmUbhBrg.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.Properties.Resources.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program Toko Sederhana.csproj.GenerateResource.Cache
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program Toko Sederhana.exe
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program Toko Sederhana.pdb
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmUtm.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\bin\Debug\MySql.Data.dll
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.frmKat.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.frmSat.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.frmJual.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmLap.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.frmCariBrg.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmSet.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.frmTmbhUsr.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmUbhUsr.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\bin\Debug\CrystalDecisions.Shared.dll
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.frmCetak.resources
+D:\project\jual\Penjualan C#\Program Toko Sederhana\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmKas.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\bin\Debug\Program Toko Sederhana.exe.config
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program Toko Sederhana.exe
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program Toko Sederhana.pdb
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\bin\Debug\Program Toko Sederhana.exe
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\bin\Debug\Program Toko Sederhana.pdb
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\bin\Debug\CrystalDecisions.Shared.dll
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\bin\Debug\MySql.Data.dll
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program Toko Sederhana.csprojResolveAssemblyReference.cache
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.frmCetak.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.frmJual.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmKas.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.Properties.Resources.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program Toko Sederhana.csproj.GenerateResource.Cache
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmLogin.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmBarang.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmBarangTambah.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmTerms.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmUtama.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmCariBarang.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmLaporan.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmPassword.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmPengaturan.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmTambahUser.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmKasTambah.resources
+D:\project\jual\Program Toko Sederhana C#\Program Toko Sederhana\obj\Debug\Program_Toko_Sederhana.FrmKategoriKas.resources
+D:\project\desktop\JualTunai\JualTunai\bin\Debug\Program Toko Sederhana.exe.config
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\Program Toko Sederhana.exe
+D:\project\desktop\JualTunai\JualTunai\obj\Debug\Program Toko Sederhana.pdb
